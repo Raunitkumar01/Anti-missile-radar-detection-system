@@ -1,4 +1,4 @@
-# Anti-missile-radar-detection-system
+<img width="883" height="671" alt="Screenshot 2026-04-23 at 7 53 20 PM" src="https://github.com/user-attachments/assets/e87304f1-d089-4481-b413-b03cdfe7486b" /># Anti-missile-radar-detection-system
 
 This project creates a radar system using an ultrasonic sensor and a servo motor connected to Arduino. The Arduino sends angle and distance data to Processing, which displays it as a radar screen.
 
@@ -42,4 +42,7 @@ Distance is converted from cm → pixels for display
 The key part of your code:
 
 if (iDistance > 2 && iDistance < 80)
+
+
+
 
